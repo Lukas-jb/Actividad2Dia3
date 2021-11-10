@@ -1,0 +1,6 @@
+C:\Users\lenovo\Desktop\ITM\SEMESTRE 4\DESAROLLO\ProgramSoftwar\1 Parcial\libParcial1\libParcial1\obj\Debug\libParcial1.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\ITM\SEMESTRE 4\DESAROLLO\ProgramSoftwar\1 Parcial\libParcial1\libParcial1\obj\Debug\libParcial1.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\ITM\SEMESTRE 4\DESAROLLO\ProgramSoftwar\1 Parcial\libParcial1\libParcial1\bin\Debug\libParcial1.dll
+C:\Users\lenovo\Desktop\ITM\SEMESTRE 4\DESAROLLO\ProgramSoftwar\1 Parcial\libParcial1\libParcial1\bin\Debug\libParcial1.pdb
+C:\Users\lenovo\Desktop\ITM\SEMESTRE 4\DESAROLLO\ProgramSoftwar\1 Parcial\libParcial1\libParcial1\obj\Debug\libParcial1.dll
+C:\Users\lenovo\Desktop\ITM\SEMESTRE 4\DESAROLLO\ProgramSoftwar\1 Parcial\libParcial1\libParcial1\obj\Debug\libParcial1.pdb
