@@ -1,0 +1,24 @@
+[33mcommit 97e1929d187627f4bacc5269485cc702f5305c0e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: eb1343d ee0d970
+Author: Lukas-jb <lukas.jbueno@gmail.com>
+Date:   Wed Nov 10 13:32:44 2021 -0500
+
+    se incorpora rama1
+
+[33mcommit ee0d9701379487c9a5533b9aa4dbee0f9928250d[m[33m ([m[1;32mrama2[m[33m)[m
+Author: Lukas-jb <lukas.jbueno@gmail.com>
+Date:   Wed Nov 10 13:16:49 2021 -0500
+
+    Se ingresa readme
+
+[33mcommit eb1343d12dfe382ae6dec54e524da6a94bbad7ec[m[33m ([m[1;32mrama1[m[33m)[m
+Author: Lukas-jb <lukas.jbueno@gmail.com>
+Date:   Wed Nov 10 13:14:21 2021 -0500
+
+    Se incorpora Modificaciones Rama.txt
+
+[33mcommit ea55d4d6805f6c61e9854abaf9de02e541b77c42[m
+Author: Lukas-jb <lukas.jbueno@gmail.com>
+Date:   Wed Nov 10 13:04:05 2021 -0500
+
+    Primer commit
